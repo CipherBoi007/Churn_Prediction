@@ -49,7 +49,7 @@ This project uses the **Telco Customer Churn** dataset and builds an optimized *
 ---
 
 ## 📁 Project Structure
-'''
+```
 CHURN/
 │
 ├── __pycache__/                 # Python bytecode (auto-generated, ignore in Git)
@@ -63,7 +63,7 @@ CHURN/
 ├── README.md                    # Project overview
 ├── requirements.txt             # Dependencies
 └── xgb_model.pkl                # Trained XGBoost model
-'''
+```
 
 
 ---
