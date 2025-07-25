@@ -52,17 +52,12 @@ This project uses the **Telco Customer Churn** dataset and builds an optimized *
 ```
 CHURN/
 │
-├── __pycache__/                 # Python bytecode (auto-generated, ignore in Git)
-├── C/                           # Unclear folder - likely IDE-related or temp
-│
-├── .gitignore                   # Good: Keeps repo clean
-├── churn.csv                    # Raw dataset
-├── data_analysis.ipynb          # Main notebook for training & evaluation
-├── model_columns.pkl            # Saved feature columns (for consistent prediction)
-├── predictor.py                 # Script with model training logic
-├── README.md                    # Project overview
-├── requirements.txt             # Dependencies
-└── xgb_model.pkl                # Trained XGBoost model
+├── .gitignore
+├── Churn_Prediction_Notebook.ipynb
+├── README.md
+├── predictor.py
+└── requirements.txt
+
 ```
 
 
